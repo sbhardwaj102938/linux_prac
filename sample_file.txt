@@ -1,5 +1,6 @@
 This directory is created to practice linux and git.
 This file contain introduction regarding the task to be performed.
 Temp branch created to understand merge.
-Temp 2 created and maater branch is modified.
+Temp 2 created and master branch is modified.
 Temp branch is deleted and temp2 is created to understand merge conflict.
+Temp2 deleted and temp3 created to practice rebase.
